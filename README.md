@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 ## Video Walkthrough
 
-[Google Drive Video Link](https://drive.google.com/file/d/11VtKO7D2sAcNgpyQcPzLtPUCMep8h5q2/view?usp=sharing)
+[Google Drive Video Link]([https://drive.google.com/file/d/11VtKO7D2sAcNgpyQcPzLtPUCMep8h5q2/view?usp=sharing](https://drive.google.com/file/d/1-yAHCFxRwKQw4lEYlyJnnqPci7q5Gmva/view?usp=sharing))
 
 ## App Brainstorming (Step 4)
 
